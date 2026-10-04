@@ -186,7 +186,7 @@ More reliable downstream analytics
 📂 Project Structure
 Olist-E-Commerce-Lakehouse-Data-Quality-Platform/
 │
-├── notebooks/
+├── Notebook/
 │   ├── 01_Silver_Data_Quality
 │   └── 02_Gold_Analytics
 │
